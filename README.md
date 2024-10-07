@@ -1,9 +1,7 @@
 Hi, I’m @Marcus1car.
 
 Student at EPITA.
-
 Intrested in Cyber Security.
-
 🌐️ Fluent in English, Japanese, French.
 
 <!---
