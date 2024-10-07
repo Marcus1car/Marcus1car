@@ -1,6 +1,6 @@
 Hi, I’m @Marcus1car.
 
-Student at EPITA and abroad student at Sejong University.
+Student at EPITA.
 
 Intrested in Cyber Security.
 
