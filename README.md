@@ -1,8 +1,13 @@
-Hi, I’m @Marcus1car.
 
-Student at EPITA.
-Intrested in Cyber Security.
-🌐️ Fluent in English, Japanese, French.
+
+
+@Marcus1car | Cybersecurity Enthusiast | EPITA Student
+
+🌐️ Fluent in English, Japanese, and French
+
+
+
+
 
 <!---
 Marcus1car/Marcus1car is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
